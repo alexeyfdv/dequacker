@@ -51,4 +51,4 @@ modules:
      - type: git
        url: https://github.com/alexeyfdv/dequacker.git
        tag: v0.0.1
-       commit: PASTE_OUTPUT_OF_git_rev-parse_v0.0.1_HERE
+       commit: 8f36b006bc225441fc401491e58479bc927ca6eb
