@@ -472,7 +472,7 @@ class RubberDuckApp(Adw.Application):
             ),
             website="https://github.com/alexeyfdv/dequacker",
             issue_url="https://github.com/alexeyfdv/dequacker/issues",
-            developers=["Alexey <alexeyfdv@gmail.com>"],
+            developers=["Alexey <alexeyfdv"],
             translator_credits=_("translator-credits"),
         )
         dialog.present(self.get_active_window())
