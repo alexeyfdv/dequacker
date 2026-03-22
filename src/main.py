@@ -32,18 +32,7 @@ gettext.bindtextdomain(GETTEXT_PACKAGE, LOCALEDIR)
 gettext.textdomain(GETTEXT_PACKAGE)
 
 def _make_translator() -> gettext.GNUTranslations:
-    """
-    Build a translator respecting LANGUAGE > LANG > LC_ALL > LC_MESSAGES.
 
-    If no env var is set, or no .mo exists for the requested language,
-    returns NullTranslations which passes source strings (English) through
-    unchanged — no raw msgids, no crash.
-
-    To switch language for one run without polluting your shell:
-        LANGUAGE=ru /opt/homebrew/bin/python3 src/main.py
-        LANGUAGE=lt /opt/homebrew/bin/python3 src/main.py
-        (no prefix = English)
-    """
     langs: list[str] = []
     for var in ("LANGUAGE", "LANG", "LC_ALL", "LC_MESSAGES"):
         val = os.environ.get(var, "").strip()
@@ -491,12 +480,7 @@ class RubberDuckApp(Adw.Application):
 
 
 def _icon_button(system_name: str, fallback_svg: str, tooltip: str) -> Gtk.Button:
-    """
-    Create a Gtk.Button with an icon.
-    Tries the system icon theme first (works on Linux/GNOME).
-    Falls back to a bundled SVG file on macOS where Homebrew GTK
-    does not ship the full Adwaita icon theme.
-    """
+ 
     # Check if the system icon theme has this icon
     display = Gdk.Display.get_default()
     theme = Gtk.IconTheme.get_for_display(display)
