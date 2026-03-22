@@ -1,6 +1,6 @@
 # Dequacker
 
-A a very simple rubber duck debugging tool. When you are stuck on a bug, describe
+A very simple rubber duck debugging tool. When you are stuck on a bug, describe
 it out loud to the duck. Alternativly, there's simple chat option for a quiet debugging. The act of articulating the problem is often enough to
 reveal the solution.
 
