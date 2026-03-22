@@ -8,7 +8,7 @@
   <project_license>GPL-3.0-or-later</project_license>
 
   <name>Dequacker</name>
-  <summary>Rubber duck debugger — explain your bug, solve it yourself</summary>
+  <summary>Rubber duck debugger - explain your bug, solve it yourself</summary>
 
   <developer id="io.github.alexeyfdv">
     <name>Alexey</name>
@@ -16,14 +16,14 @@
 
   <description>
     <p>
-      Dequacker is a rubber duck debugging tool. Describing a bug out loud -
-      even to an inanimate object - forces you to articulate your assumptions
+      Dequacker is a rubber duck debugging tool. Describing a bug out loud,
+      even to an inanimate object, forces you to articulate your assumptions
       and often reveals the solution before you finish typing.
     </p>
     <p>Features:</p>
     <ul>
       <li>Digital rubber duck, one piece</li>
-      <li>Fully offline — no internet connection required</li>
+      <li>Fully offline, no internet connection required</li>
       <li>Follows your system light/dark theme and accent colour</li>
     </ul>
   </description>
@@ -41,15 +41,32 @@
 
   <content_rating type="oars-1.1"/>
 
+  <requires>
+    <display_length compare="ge">360</display_length>
+  </requires>
+
+  <recommends>
+    <control>keyboard</control>
+    <control>pointing</control>
+    <control>touch</control>
+    <display_length compare="ge">360</display_length>
+  </recommends>
+
+  <supports>
+    <control>touch</control>
+    <control>keyboard</control>
+    <control>pointing</control>
+  </supports>
+
   <screenshots>
     <screenshot type="default">
-      <image>
+      <image type="source">
         https://raw.githubusercontent.com/alexeyfdv/dequacker/v0.0.1/data/screenshots/main.png
       </image>
       <caption>Main session</caption>
     </screenshot>
     <screenshot>
-      <image>
+      <image type="source">
         https://raw.githubusercontent.com/alexeyfdv/dequacker/v0.0.1/data/screenshots/chat.png
       </image>
       <caption>Chat mode</caption>
