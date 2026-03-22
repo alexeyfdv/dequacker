@@ -1,6 +1,6 @@
 app-id: io.github.alexeyfdv.dequacker
 runtime: org.gnome.Platform
-runtime-version: '47'
+runtime-version: '48'
 sdk: org.gnome.Sdk
 command: dequacker
 
@@ -38,12 +38,16 @@ modules:
           /app/share/dequacker/icons/send.svg
 
 
+      - for lang in ru es pl de nl it pt sv fi nb cs fr kk lt eo; do
+          mkdir -p /app/share/locale/${lang}/LC_MESSAGES;
+          msgfmt po/${lang}.po -o /app/share/locale/${lang}/LC_MESSAGES/dequacker.mo;
+        done
+
+
       # License
       - install -Dm644 COPYING
           /app/share/licenses/io.github.alexeyfdv.dequacker/COPYING
 
     sources:
-      - type: git
-        url: https://github.com/alexeyfdv/dequacker.git
-        tag: v0.0.1
-        commit: REPLACE_WITH_COMMIT_HASH
+      - type: dir
+        path: .
