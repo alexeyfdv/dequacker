@@ -1,13 +1,13 @@
 # Dequacker
 
 <p align="center">
-  <img src="data/icons/io.github.alexeyfdv.Dequacker.svg" width="128" alt="Dequacker icon"/>
+  <img src="data/icons/io.github.alexeyfdv.dequacker.svg" width="128" alt="Dequacker icon"/>
 </p>
 <p align="center">
   A rubber duck debugging tool
 </p>
 <p align="center">
-  <img src="data/screenshots/welcome.png" width="380" alt="Main session"/>
+  <img src="data/screenshots/main.png" width="380" alt="Main session"/>
   &nbsp;&nbsp;
   <img src="data/screenshots/chat.png" width="380" alt="Chat mode"/>
 </p>
