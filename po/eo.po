@@ -1,0 +1,59 @@
+# Esperanto translation for Dequacker
+# Copyright (C) 2025 You
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dequacker 1.0.0\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Dequacker"
+msgstr "Dekvakulilo"
+
+msgid "Describe your bug to the duck…"
+msgstr "Priskribu vian cimon al la anaseto…"
+
+msgid "Send"
+msgstr "Sendi"
+
+msgid "Quack! 🦆  Tell me about your bug."
+msgstr "Kvak! 🦆  Rakontu al mi vian cimon."
+
+msgid "Quack?"
+msgstr "Kvak?"
+
+msgid "Got a bug? Consult the duck.\nExplaining the problem is half the solution. 🦆"
+msgstr "Havas cimon? Konsultu la anaseton.\nKlarigu la problemon — tio jam estas duono de la solvo. 🦆"
+
+msgid "Consult the Duck"
+msgstr "Konsulti la Anaseton"
+
+msgid "Your rubber duck is listening"
+msgstr "Via kaŭĉuka anaseto aŭskultas"
+
+msgid "Quack quack! 🦆"
+msgstr "Kvak kvak! 🦆"
+
+msgid "New session"
+msgstr "Nova seanco"
+
+msgid "Main menu"
+msgstr "Ĉefa menuo"
+
+msgid "About Dequacker"
+msgstr "Pri Dekvakulilo"
+
+msgid "Quit"
+msgstr "Eliri"
+
+msgid "The rubber duck debugging tool.\nTalk to the duck. Quack the bug away.\nThe duck always says Quack. 🦆"
+msgstr "La kaŭĉuka anaseta senarariga ilo.\nRakontu al la anaseto. Kvaku la cimon.\nLa anaseto ĉiam diras Kvak. 🦆"
+
+msgid "You"
+msgstr "Vi"
+
+msgid "translator-credits"
+msgstr "Vi <vi@ekzemplo.com>"

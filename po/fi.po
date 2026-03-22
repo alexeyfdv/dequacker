@@ -1,0 +1,108 @@
+# Finnish translation for Dequacker
+# Copyright (C) 2025 You
+# Alexey Fedorov, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dequacker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/you/dequacker/issues\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: You <you@example.com>\n"
+"Language-Team: Finnish\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Dequacker"
+msgstr "Dequacker"
+
+msgid "Describe your bug to the duck…"
+msgstr "Kuvaile vikasi ankalle…"
+
+msgid "Send"
+msgstr "Lähetä"
+
+msgid "Quack! 🦆  Tell me about your bug."
+msgstr "Kvaak? 🦆  Kerro minulle viasta."
+
+msgid "Quack?"
+msgstr "Kvaak?"
+
+msgid "Got a bug? Consult the duck.\nExplaining the problem is half the solution. 🦆"
+msgstr "Onko sinulla vika? Kysy ankalta.\nOngelman selittäminen on puolet ratkaisusta. 🦆"
+
+msgid "Consult the Duck"
+msgstr "Kysy ankalta"
+
+msgid "Your rubber duck is listening"
+msgstr "Kumiankkasi kuuntelee"
+
+msgid "Quack quack! 🦆"
+msgstr "Kvaak kvaak! 🦆"
+
+msgid "New session"
+msgstr "Uusi istunto"
+
+msgid "Main menu"
+msgstr "Päävalikko"
+
+msgid "About Dequacker"
+msgstr "Tietoja – Dequacker"
+
+msgid "Quit"
+msgstr "Lopeta"
+
+msgid "The rubber duck debugging tool.\nTalk to the duck. Quack the bug away.\nThe duck always says Quack. 🦆"
+msgstr "Kumiankan debuggaustyökalu.\nPuhu ankalle. Kvaakkaa vika pois.\nAnkka sanoo aina Kvaak. 🦆"
+
+msgid "You"
+msgstr "Sinä"
+
+msgid "Talk to the duck — it listens.\nExplaining the problem is half the solution."
+msgstr "Puhu ankalle — se kuuntelee.\nOngelman selittäminen on puolet ratkaisusta."
+
+msgid "Chat Mode"
+msgstr "Kysy ankalta"
+
+msgid "Encouragement"
+msgstr "Kannustus"
+
+msgid "Chat mode"
+msgstr "Kysytään ankalta"
+
+msgid "Copy"
+msgstr "Kopioi"
+
+msgid "Quack! Tell me about your bug."
+msgstr "Kvaak! Kerro minulle viasta."
+
+msgid "You're doing great"
+msgstr "Olet tekemässä hienosti"
+
+msgid "Everyone gets stuck sometimes"
+msgstr "Jokainen jumiutuu joskus"
+
+msgid "You've solved hard problems before"
+msgstr "Olet ratkaissut vaikeita ongelmia ennenkin"
+
+msgid "Take a breath — you've got this"
+msgstr "Hengitä syvään — sinä osaat"
+
+msgid "You're learning with every problem"
+msgstr "Opit jokaisesta ongelmasta"
+
+msgid "You're almost there"
+msgstr "Olet melkein perillä"
+
+msgid "The solution is closer than you think"
+msgstr "Ratkaisu on lähempänä kuin luulet"
+
+msgid "Consulting the duck"
+msgstr "Kysytään ankalta"
+
+# TRANSLATORS: put your name and email here so it appears in About > Credits
+msgid "translator-credits"
+msgstr "You <you@example.com>"

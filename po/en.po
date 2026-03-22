@@ -1,0 +1,59 @@
+# English translation for Dequacker
+# (msgstr mirrors msgid - English is the source language)
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dequacker 0.0.1\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Dequacker"
+msgstr "Dequacker"
+
+msgid "Describe your bug to the duck…"
+msgstr "Describe your bug to the duck…"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Quack! 🦆  Tell me about your bug."
+msgstr "Quack! 🦆  Tell me about your bug."
+
+msgid "Quack!"
+msgstr "Quack!"
+
+msgid "Got a bug? Consult the duck.\nExplaining the problem is half the solution. 🦆"
+msgstr "Got a bug? Consult the duck.\nExplaining the problem is half the solution. 🦆"
+
+msgid "Consult the Duck"
+msgstr "Consult the Duck"
+
+msgid "Your rubber duck is listening"
+msgstr "Your rubber duck is listening"
+
+msgid "Quack quack! 🦆"
+msgstr "Quack quack! 🦆"
+
+msgid "New session"
+msgstr "New session"
+
+msgid "Main menu"
+msgstr "Main menu"
+
+msgid "About Dequacker"
+msgstr "About Dequacker"
+
+msgid "Quit"
+msgstr "Quit"
+
+msgid "The rubber duck debugging tool.\nTalk to the duck. Quack the bug away.\nThe duck always says Quack. 🦆"
+msgstr "The rubber duck debugging tool.\nTalk to the duck. Quack the bug away.\nThe duck always says Quack. 🦆"
+
+msgid "You"
+msgstr "You"
+
+msgid "translator-credits"
+msgstr ""

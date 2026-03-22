@@ -1,0 +1,108 @@
+# French translation for Dequacker
+# Copyright (C) 2025 You
+# Alexey Fedorov, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dequacker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/you/dequacker/issues\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: You <you@example.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Dequacker"
+msgstr "Dequacker"
+
+msgid "Describe your bug to the duck…"
+msgstr "Décris ton bug au canard…"
+
+msgid "Send"
+msgstr "Envoyer"
+
+msgid "Quack! 🦆  Tell me about your bug."
+msgstr "Coin ? 🦆  Parle-moi de ton bug."
+
+msgid "Quack?"
+msgstr "Coin ?"
+
+msgid "Got a bug? Consult the duck.\nExplaining the problem is half the solution. 🦆"
+msgstr "Tu as un bug ? Consulte le canard.\nExpliquer le problème, c'est déjà la moitié de la solution. 🦆"
+
+msgid "Consult the Duck"
+msgstr "Consulter le canard"
+
+msgid "Your rubber duck is listening"
+msgstr "Ton canard en caoutchouc écoute"
+
+msgid "Quack quack! 🦆"
+msgstr "Coin coin ! 🦆"
+
+msgid "New session"
+msgstr "Nouvelle session"
+
+msgid "Main menu"
+msgstr "Menu principal"
+
+msgid "About Dequacker"
+msgstr "À propos de Dequacker"
+
+msgid "Quit"
+msgstr "Quitter"
+
+msgid "The rubber duck debugging tool.\nTalk to the duck. Quack the bug away.\nThe duck always says Quack. 🦆"
+msgstr "L'outil de débogage au canard en caoutchouc.\nParle au canard. Chasse le bug à coups de coin.\nLe canard dit toujours Coin. 🦆"
+
+msgid "You"
+msgstr "Toi"
+
+msgid "Talk to the duck — it listens.\nExplaining the problem is half the solution."
+msgstr "Parle au canard — il écoute.\nExpliquer le problème, c'est déjà la moitié de la solution."
+
+msgid "Chat Mode"
+msgstr "Consulter le canard"
+
+msgid "Encouragement"
+msgstr "Encouragement"
+
+msgid "Chat mode"
+msgstr "Consultation du canard"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Quack! Tell me about your bug."
+msgstr "Coin ! Parle-moi de ton bug."
+
+msgid "You're doing great"
+msgstr "Tu t'en sors très bien"
+
+msgid "Everyone gets stuck sometimes"
+msgstr "Tout le monde bloque parfois"
+
+msgid "You've solved hard problems before"
+msgstr "Tu as déjà résolu des problèmes difficiles"
+
+msgid "Take a breath — you've got this"
+msgstr "Respire un coup — tu y arriveras"
+
+msgid "You're learning with every problem"
+msgstr "Tu apprends à chaque problème"
+
+msgid "You're almost there"
+msgstr "Tu y es presque"
+
+msgid "The solution is closer than you think"
+msgstr "La solution est plus proche que tu ne le penses"
+
+msgid "Consulting the duck"
+msgstr "Consultation du canard"
+
+# TRANSLATORS: put your name and email here so it appears in About > Credits
+msgid "translator-credits"
+msgstr "You <you@example.com>"

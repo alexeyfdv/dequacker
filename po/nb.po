@@ -1,0 +1,108 @@
+# Norwegian Bokmål translation for Dequacker
+# Copyright (C) 2025 You
+# Alexey Fedorov, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dequacker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/you/dequacker/issues\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: You <you@example.com>\n"
+"Language-Team: Norwegian Bokmål\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Dequacker"
+msgstr "Dequacker"
+
+msgid "Describe your bug to the duck…"
+msgstr "Beskriv feilen din til anden…"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Quack! 🦆  Tell me about your bug."
+msgstr "Kvakk? 🦆  Fortell meg om feilen din."
+
+msgid "Quack?"
+msgstr "Kvakk?"
+
+msgid "Got a bug? Consult the duck.\nExplaining the problem is half the solution. 🦆"
+msgstr "Har du en feil? Spør anden.\nÅ forklare problemet er halve løsningen. 🦆"
+
+msgid "Consult the Duck"
+msgstr "Spør anden"
+
+msgid "Your rubber duck is listening"
+msgstr "Gummianden din lytter"
+
+msgid "Quack quack! 🦆"
+msgstr "Kvakk kvakk! 🦆"
+
+msgid "New session"
+msgstr "Ny økt"
+
+msgid "Main menu"
+msgstr "Hovedmeny"
+
+msgid "About Dequacker"
+msgstr "Om Dequacker"
+
+msgid "Quit"
+msgstr "Avslutt"
+
+msgid "The rubber duck debugging tool.\nTalk to the duck. Quack the bug away.\nThe duck always says Quack. 🦆"
+msgstr "Feilsøkingsverktøyet med gummiand.\nSnakk med anden. Kvakk feilen bort.\nAnden sier alltid Kvakk. 🦆"
+
+msgid "You"
+msgstr "Du"
+
+msgid "Talk to the duck — it listens.\nExplaining the problem is half the solution."
+msgstr "Snakk med anden — den lytter.\nÅ forklare problemet er halve løsningen."
+
+msgid "Chat Mode"
+msgstr "Spør anden"
+
+msgid "Encouragement"
+msgstr "Oppmuntring"
+
+msgid "Chat mode"
+msgstr "Spør anden"
+
+msgid "Copy"
+msgstr "Kopier"
+
+msgid "Quack! Tell me about your bug."
+msgstr "Kvakk! Fortell meg om feilen din."
+
+msgid "You're doing great"
+msgstr "Du gjør det strålende"
+
+msgid "Everyone gets stuck sometimes"
+msgstr "Alle setter seg fast innimellom"
+
+msgid "You've solved hard problems before"
+msgstr "Du har løst vanskelige problemer før"
+
+msgid "Take a breath — you've got this"
+msgstr "Ta et dypt pust — du klarer dette"
+
+msgid "You're learning with every problem"
+msgstr "Du lærer av hvert problem"
+
+msgid "You're almost there"
+msgstr "Du er nesten fremme"
+
+msgid "The solution is closer than you think"
+msgstr "Løsningen er nærmere enn du tror"
+
+msgid "Consulting the duck"
+msgstr "Spør anden"
+
+# TRANSLATORS: put your name and email here so it appears in About > Credits
+msgid "translator-credits"
+msgstr "You <you@example.com>"

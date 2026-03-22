@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Dequacker
+_Comment=Debug your code by talking to a rubber duck
+Exec=dequacker
+Icon=io.github.you.Dequacker
+Terminal=false
+Type=Application
+Categories=Development;Utility;
+Keywords=debug;duck;rubber;programming;quack;
+StartupWMClass=dequacker
+X-GNOME-UsesNotifications=false

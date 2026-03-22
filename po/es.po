@@ -1,0 +1,108 @@
+# Spanish translation for Dequacker
+# Copyright (C) 2025 You
+# Alexey Fedorov, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dequacker 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/you/dequacker/issues\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: You <you@example.com>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Dequacker"
+msgstr "Dequacker"
+
+msgid "Describe your bug to the duck…"
+msgstr "Describe tu error al pato…"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Quack! 🦆  Tell me about your bug."
+msgstr "¿Cuac? 🦆  Cuéntame tu error."
+
+msgid "Quack?"
+msgstr "¿Cuac?"
+
+msgid "Got a bug? Consult the duck.\nExplaining the problem is half the solution. 🦆"
+msgstr "¿Tienes un error? Consulta al pato.\nExplicar el problema es la mitad de la solución. 🦆"
+
+msgid "Consult the Duck"
+msgstr "Consultar al pato"
+
+msgid "Your rubber duck is listening"
+msgstr "Tu pato de goma está escuchando"
+
+msgid "Quack quack! 🦆"
+msgstr "¡Cuac cuac! 🦆"
+
+msgid "New session"
+msgstr "Nueva sesión"
+
+msgid "Main menu"
+msgstr "Menú principal"
+
+msgid "About Dequacker"
+msgstr "Acerca de Dequacker"
+
+msgid "Quit"
+msgstr "Salir"
+
+msgid "The rubber duck debugging tool.\nTalk to the duck. Quack the bug away.\nThe duck always says Quack. 🦆"
+msgstr "La herramienta de depuración con pato de goma.\nHabla con el pato. Aleja el error con un cuac.\nEl pato siempre dice Cuac. 🦆"
+
+msgid "You"
+msgstr "Tú"
+
+msgid "Talk to the duck — it listens.\nExplaining the problem is half the solution."
+msgstr "Habla con el pato — escucha.\nExplicar el problema es la mitad de la solución."
+
+msgid "Chat Mode"
+msgstr "Consultar al pato"
+
+msgid "Encouragement"
+msgstr "Ánimo"
+
+msgid "Chat mode"
+msgstr "Consultando al pato"
+
+msgid "Copy"
+msgstr "Copiar"
+
+msgid "Quack! Tell me about your bug."
+msgstr "¡Cuac! Cuéntame tu error."
+
+msgid "You're doing great"
+msgstr "Lo estás haciendo muy bien"
+
+msgid "Everyone gets stuck sometimes"
+msgstr "Todo el mundo se queda bloqueado a veces"
+
+msgid "You've solved hard problems before"
+msgstr "Ya has resuelto problemas difíciles antes"
+
+msgid "Take a breath — you've got this"
+msgstr "Respira hondo — tú puedes"
+
+msgid "You're learning with every problem"
+msgstr "Aprendes con cada problema"
+
+msgid "You're almost there"
+msgstr "Ya casi estás"
+
+msgid "The solution is closer than you think"
+msgstr "La solución está más cerca de lo que crees"
+
+msgid "Consulting the duck"
+msgstr "Consultando al pato"
+
+# TRANSLATORS: put your name and email here so it appears in About > Credits
+msgid "translator-credits"
+msgstr "You <you@example.com>"
