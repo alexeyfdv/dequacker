@@ -9,7 +9,6 @@ finish-args:
   - --socket=fallback-x11
   - --socket=wayland
   - --device=dri
-  - --socket=session-bus 
 
 build-options:
   env:
@@ -38,12 +37,10 @@ modules:
       - install -Dm644 data/icons/send.svg
           /app/share/dequacker/icons/send.svg
 
-
       - for lang in ru es pl de nl it pt sv fi nb cs fr kk lt eo; do
           mkdir -p /app/share/locale/${lang}/LC_MESSAGES;
           msgfmt po/${lang}.po -o /app/share/locale/${lang}/LC_MESSAGES/dequacker.mo;
         done
-
 
       # License
       - install -Dm644 COPYING

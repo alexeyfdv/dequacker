@@ -65,7 +65,7 @@ _ = _t.gettext
 
 
 # ── App constants ─────────────────────────────────────────────────────────────
-APP_ID      = "io.github.alexeyfdv.dequacker"
+APP_ID      = "io.github.you.Dequacker"
 APP_NAME    = _("Dequacker")
 APP_VERSION = "0.0.1"
 
@@ -86,8 +86,18 @@ _support_index = 0
 # ── Helpers ───────────────────────────────────────────────────────────────────
 _BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
+# When running as a Flatpak, icons are installed to /app/share/dequacker/
+# When running from source, they live at ../data/ relative to src/
+_FLATPAK_DATA = "/app/share/dequacker"
+_SOURCE_DATA  = os.path.join(_BASE_DIR, "..", "data")
+_DATA_DIR     = _FLATPAK_DATA if os.path.isdir(_FLATPAK_DATA) else _SOURCE_DATA
+
 
 def _resource(relative: str) -> str:
+    # Strip the leading "data/" prefix — icons are stored directly under _DATA_DIR
+    if relative.startswith("data/icons/"):
+        name = relative[len("data/icons/"):]
+        return os.path.join(_DATA_DIR, "icons", name)
     return os.path.join(_BASE_DIR, "..", relative)
 
 
@@ -472,7 +482,7 @@ class RubberDuckApp(Adw.Application):
             ),
             website="https://github.com/alexeyfdv/dequacker",
             issue_url="https://github.com/alexeyfdv/dequacker/issues",
-            developers=["Alexey <alexeyfdv"],
+            developers=["Alexey <alexeyfdv>"],
             translator_credits=_("translator-credits"),
         )
         dialog.present(self.get_active_window())
