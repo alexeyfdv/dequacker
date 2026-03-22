@@ -1,0 +1,49 @@
+app-id: io.github.alexeyfdv.dequacker
+runtime: org.gnome.Platform
+runtime-version: '47'
+sdk: org.gnome.Sdk
+command: dequacker
+
+finish-args:
+  - --share=ipc
+  - --socket=fallback-x11
+  - --socket=wayland
+  - --device=dri
+
+build-options:
+  env:
+    DEQUACKER_LOCALEDIR: /app/share/locale
+
+modules:
+  - name: dequacker
+    buildsystem: simple
+    build-commands:
+      # Install Python source files
+      - install -Dm755 src/main.py /app/bin/dequacker
+
+      # Desktop and metainfo
+      - install -Dm644 data/io.github.alexeyfdv.dequacker.desktop
+          /app/share/applications/io.github.alexeyfdv.dequacker.desktop
+      - install -Dm644 data/io.github.alexeyfdv.dequacker.metainfo.xml
+          /app/share/metainfo/io.github.alexeyfdv.dequacker.metainfo.xml
+
+      # Icons
+      - install -Dm644 data/icons/io.github.alexeyfdv.dequacker.svg
+          /app/share/icons/hicolor/scalable/apps/io.github.alexeyfdv.dequacker.svg
+      - install -Dm644 data/icons/duck.svg
+          /app/share/dequacker/icons/duck.svg
+      - install -Dm644 data/icons/duck-small.svg
+          /app/share/dequacker/icons/duck-small.svg
+      - install -Dm644 data/icons/send.svg
+          /app/share/dequacker/icons/send.svg
+
+
+      # License
+      - install -Dm644 COPYING
+          /app/share/licenses/io.github.alexeyfdv.dequacker/COPYING
+
+    sources:
+      - type: git
+        url: https://github.com/alexeyfdv/dequacker.git
+        tag: v0.0.1
+        commit: REPLACE_WITH_COMMIT_HASH

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Dequacker
+Comment=Rubber duck debugger — explain your bug, solve it yourself
+Exec=dequacker
+Icon=io.github.alexeyfdv.dequacker
+Terminal=false
+Type=Application
+Categories=Utility;Development;
+Keywords=debug;debugging;rubber duck;duck;developer;
+StartupNotify=true
+StartupWMClass=io.github.alexeyfdv.dequacker

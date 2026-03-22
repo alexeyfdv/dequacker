@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2025 Alexey -->
+<component type="desktop-application">
+
+  <id>io.github.alexeyfdv.dequacker</id>
+
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <name>Dequacker</name>
+  <summary>Rubber duck debugger — explain your bug, solve it yourself</summary>
+
+  <developer id="io.github.alexeyfdv">
+    <name>Alexey</name>
+  </developer>
+
+  <description>
+    <p>
+      Dequacker is a rubber duck debugging tool. Describing a bug out loud -
+      even to an inanimate object - forces you to articulate your assumptions
+      and often reveals the solution before you finish typing.
+    </p>
+    <p>Features:</p>
+    <ul>
+      <li>Digital rubber duck, one piece</li>
+      <li>Fully offline — no internet connection required</li>
+      <li>Follows your system light/dark theme and accent colour</li>
+    </ul>
+  </description>
+
+  <launchable type="desktop-id">
+    io.github.alexeyfdv.dequacker.desktop
+  </launchable>
+
+  <translation type="gettext">dequacker</translation>
+
+  <branding>
+    <color type="primary" scheme_preference="light">#f5c842</color>
+    <color type="primary" scheme_preference="dark">#c89a10</color>
+  </branding>
+
+  <content_rating type="oars-1.1"/>
+
+  <screenshots>
+    <screenshot type="default">
+      <image>
+        https://raw.githubusercontent.com/alexeyfdv/dequacker/v0.0.1/data/screenshots/main.png
+      </image>
+      <caption>Main session</caption>
+    </screenshot>
+    <screenshot>
+      <image>
+        https://raw.githubusercontent.com/alexeyfdv/dequacker/v0.0.1/data/screenshots/chat.png
+      </image>
+      <caption>Chat mode</caption>
+    </screenshot>
+  </screenshots>
+
+  <url type="homepage">https://github.com/alexeyfdv/dequacker</url>
+  <url type="bugtracker">https://github.com/alexeyfdv/dequacker/issues</url>
+  <url type="vcs-browser">https://github.com/alexeyfdv/dequacker</url>
+
+  <releases>
+    <release version="0.0.1" date="2025-06-01">
+      <description>
+        <p>Initial release.</p>
+        <ul>
+          <li>A digital rubber duck ready to help with debugging</li>
+          <li>Chat option for noisy places</li>
+        </ul>
+      </description>
+    </release>
+  </releases>
+
+</component>
