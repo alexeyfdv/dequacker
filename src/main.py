@@ -471,7 +471,7 @@ class RubberDuckApp(Adw.Application):
         # It replaces the older Adw.AboutWindow.
         dialog = Adw.AboutDialog(
             application_name=APP_NAME,
-            application_icon="io.github.yourusername.Dequacker",
+            application_icon="io.github.alexeyfdv.dequacker",
             version=APP_VERSION,
             developer_name="Alexey",
             copyright="© 2026",
@@ -481,8 +481,8 @@ class RubberDuckApp(Adw.Application):
                 "Explain your bug to the duck.\n"
                 "The duck will listen, nod, and say Quack."
             ),
-            website="https://github.com/yourusername/dequacker",
-            issue_url="https://example.com/issues",
+            website="https://github.com/alexeyfdv/dequacker",
+            issue_url="https://github.com/alexeyfdv/dequacker/issues",
             developers=["You <you@example.com>"],
             translator_credits=_("translator-credits"),
         )
