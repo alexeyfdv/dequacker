@@ -1,5 +1,17 @@
 # Dequacker
 
+<p align="center">
+  <img src="data/icons/io.github.alexeyfdv.Dequacker.svg" width="128" alt="Dequacker icon"/>
+</p>
+<p align="center">
+  A rubber duck debugging tool
+</p>
+<p align="center">
+  <img src="data/screenshots/welcome.png" width="380" alt="Main session"/>
+  &nbsp;&nbsp;
+  <img src="data/screenshots/chat.png" width="380" alt="Chat mode"/>
+</p>
+
 A very simple rubber duck debugging tool. When you are stuck on a bug, describe
 it out loud to the duck. Alternativly, there's simple chat option for a quiet debugging. The act of articulating the problem is often enough to
 reveal the solution.
