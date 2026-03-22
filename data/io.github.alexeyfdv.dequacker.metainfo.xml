@@ -8,7 +8,7 @@
   <project_license>GPL-3.0-or-later</project_license>
 
   <name>Dequacker</name>
-  <summary>Rubber duck debugger - explain your bug, solve it yourself</summary>
+  <summary>Rubber duck debugger -gi explain your bug, solve it yourself</summary>
 
   <developer id="io.github.alexeyfdv">
     <name>Alexey</name>

@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Dequacker
-Comment=Rubber duck debugger — explain your bug, solve it yourself
+Comment=Rubber duck debugger - explain your bug, solve it yourself
 Exec=dequacker
 Icon=io.github.alexeyfdv.dequacker
 Terminal=false

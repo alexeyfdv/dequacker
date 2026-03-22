@@ -65,7 +65,7 @@ _ = _t.gettext
 
 
 # ── App constants ─────────────────────────────────────────────────────────────
-APP_ID      = "io.github.you.Dequacker"
+APP_ID      = "io.github.alexeyfdv.dequacker"
 APP_NAME    = _("Dequacker")
 APP_VERSION = "0.0.1"
 
