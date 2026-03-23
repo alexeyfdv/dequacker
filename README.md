@@ -23,11 +23,6 @@ If you have any ideas, please feel free to contribute.
 
 ## Installation
 
-### Flathub
-
-```bash
-flatpak install flathub io.github.alexeyfdv.dequacker
-```
 
 ### From source
 
