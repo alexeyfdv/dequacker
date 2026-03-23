@@ -42,7 +42,7 @@ flatpak-builder --user --install --force-clean build-dir \
     io.github.alexeyfdv.dequacker.yml
 flatpak run io.github.alexeyfdv.dequacker
 ```
-I think, I won't upload it to flathub since most of the code was writen by AI. I might, after i rewrite it fully by myself.
+I think, I won't upload it to flathub since most of the code was writen by AI. Maybe after I rewrite it fully by myself.
 
 ## License
 
