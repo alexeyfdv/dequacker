@@ -24,6 +24,8 @@ The Dequacker was created as a helpful tool for myself, but if you have any idea
 
 ## Installation
 
+l added a flatpak file for convinience in releases section.
+
 ### From source
 
 Requires Python 3.11+, GTK 4.14+, libadwaita 1.5+.
