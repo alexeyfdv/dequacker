@@ -18,7 +18,7 @@ reveal the solution.
 
 Built with Python, GTK4, and libadwaita. 
 I am only learning so it was developed with the assistance of
-Claude (Anthropic). The idea is to learn and rewrite the tool fully bymuself in future. 
+Claude (Anthropic). The idea is to learn and rewrite the tool fully by myself in future. 
 The Dequacker was created as a helpful tool for myself, but if you have any ideas, please feel free to contribute.
 
 
