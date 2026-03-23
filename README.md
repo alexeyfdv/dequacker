@@ -24,7 +24,7 @@ The Dequacker was created as a helpful tool for myself, but if you have any idea
 
 ## Installation
 
-l added a flatpak file for convinience in releases section.
+l added a flatpak file for convinience in the releases section.
 
 ### From source
 
