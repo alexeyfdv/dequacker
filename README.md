@@ -19,10 +19,10 @@ reveal the solution.
 Built with Python, GTK4, and libadwaita. 
 I am only learning so it was developed with the assistance of
 Claude (Anthropic). The idea is to learn and rewrite the tool fully bymuself in future. 
-If you have any ideas, please feel free to contribute.
+The Dequacker was created as a helpful tool for myself, but if you have any ideas, please feel free to contribute.
+
 
 ## Installation
-
 
 ### From source
 
@@ -42,7 +42,7 @@ flatpak-builder --user --install --force-clean build-dir \
     io.github.alexeyfdv.dequacker.yml
 flatpak run io.github.alexeyfdv.dequacker
 ```
-
+I think, I won't upload it to flathub since most of the code was writen by AI. I might, after i rewrite it fully by myself.
 
 ## License
 
